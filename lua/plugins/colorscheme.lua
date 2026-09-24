@@ -1,4 +1,4 @@
 return {
-  { 'projekt0n/github-nvim-theme', name = 'github-theme' },
-  { "LazyVim/LazyVim", opts = { colorscheme = "github_light" } },
+  { "Mofiqul/vscode.nvim", name = "vscode" },
+  { "LazyVim/LazyVim", opts = { colorscheme = "vscode", background = "light" } },
 }
