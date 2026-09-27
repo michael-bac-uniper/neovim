@@ -5,3 +5,11 @@
 vim.g.snacks_animate = false
 
 vim.o.background = "light"
+
+vim.o.shell = "pwsh"
+vim.o.shellcmdflag = "-NoLogo -ExecutionPolicy RemoteSigned -Command"
+vim.o.shellquote = ""
+vim.o.shellxquote = ""
+
+vim.opt.relativenumber = false
+vim.opt.number = true
