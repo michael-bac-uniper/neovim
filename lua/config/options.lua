@@ -13,3 +13,5 @@ vim.o.shellxquote = ""
 
 vim.opt.relativenumber = false
 vim.opt.number = true
+
+vim.o.winborder = "rounded"
